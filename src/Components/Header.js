@@ -61,7 +61,7 @@ function Header() {
             </button>
             <ul className="dropdown-menu">
               <li>
-                <a className="dropdown-item" href="/en.html">
+                <a className="dropdown-item" href="https://artemonpylyp.github.io/ai-developers/en.html">
                   EN
                 </a>
               </li>
