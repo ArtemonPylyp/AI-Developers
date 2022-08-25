@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.348d3b84.css",
-    "main.js": "/static/js/main.0d5b6c5e.js",
-    "static/media/Снимок экрана 2022-08-05 в 13.59.47.png": "/static/media/Снимок экрана 2022-08-05 в 13.59.47.60ecd5c4b92ddd323e97.png",
-    "static/media/image.png": "/static/media/image.183ff184f44df8887c40.png",
-    "index.html": "/index.html",
-    "main.348d3b84.css.map": "/static/css/main.348d3b84.css.map",
-    "main.0d5b6c5e.js.map": "/static/js/main.0d5b6c5e.js.map"
+    "main.css": "/ai-developers/static/css/main.348d3b84.css",
+    "main.js": "/ai-developers/static/js/main.3f3f858e.js",
+    "static/media/Снимок экрана 2022-08-05 в 13.59.47.png": "/ai-developers/static/media/Снимок экрана 2022-08-05 в 13.59.47.60ecd5c4b92ddd323e97.png",
+    "static/media/image.png": "/ai-developers/static/media/image.183ff184f44df8887c40.png",
+    "index.html": "/ai-developers/index.html",
+    "main.348d3b84.css.map": "/ai-developers/static/css/main.348d3b84.css.map",
+    "main.3f3f858e.js.map": "/ai-developers/static/js/main.3f3f858e.js.map"
   },
   "entrypoints": [
     "static/css/main.348d3b84.css",
-    "static/js/main.0d5b6c5e.js"
+    "static/js/main.3f3f858e.js"
   ]
 }
