@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ai-developers/static/css/main.348d3b84.css",
-    "main.js": "/ai-developers/static/js/main.0471aa18.js",
+    "main.js": "/ai-developers/static/js/main.b44f04cb.js",
     "static/media/Снимок экрана 2022-08-05 в 13.59.47.png": "/ai-developers/static/media/Снимок экрана 2022-08-05 в 13.59.47.60ecd5c4b92ddd323e97.png",
     "static/media/image.png": "/ai-developers/static/media/image.183ff184f44df8887c40.png",
     "index.html": "/ai-developers/index.html",
     "main.348d3b84.css.map": "/ai-developers/static/css/main.348d3b84.css.map",
-    "main.0471aa18.js.map": "/ai-developers/static/js/main.0471aa18.js.map"
+    "main.b44f04cb.js.map": "/ai-developers/static/js/main.b44f04cb.js.map"
   },
   "entrypoints": [
     "static/css/main.348d3b84.css",
-    "static/js/main.0471aa18.js"
+    "static/js/main.b44f04cb.js"
   ]
 }
