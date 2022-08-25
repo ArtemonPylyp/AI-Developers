@@ -1,0 +1,68 @@
+.intro {
+  display: table;
+  width: 100%;
+  padding: 0;
+  background: url("https://oir.mobi/uploads/posts/2021-03/1616577760_19-p-fon-dlya-logo-21.jpg")
+    center center no-repeat;
+  background-color: #e5e5e5;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.intro .overlay {
+  background: rgba(0, 0, 0, 0.2);
+}
+.intro-text {
+  padding-top: 350px;
+  padding-bottom: 200px;
+  text-align: center;
+}
+.intro h1 {
+  font-family: "Raleway", sans-serif;
+  color: #fff;
+  font-size: 72px;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+.intro p {
+  color: #fff;
+  font-size: 22px;
+  font-weight: 300;
+  line-height: 30px;
+  margin: 0 auto;
+  margin-bottom: 60px;
+}
+.btn-custom {
+  font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+  background-color: #5ca9fb;
+  background-image: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  padding: 14px 34px;
+  letter-spacing: 1px;
+  margin: 0;
+  font-size: 15px;
+  font-weight: 500;
+  border-radius: 25px;
+  transition: all 0.5s linear;
+  border: 0;
+}
+.first-btn-anim {
+  font-family: Arial, serif;
+  font-size: 20px;
+  margin: 8px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: transform 500ms ease;
+}
+.first-btn-anim:hover {
+  transform: scale(1.1);
+}
+.first-btn-anim:hover:after {
+  transition: 500ms ease;
+  transform: scale(0.5);
+}

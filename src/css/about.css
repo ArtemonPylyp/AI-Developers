@@ -1,0 +1,84 @@
+.about {
+  padding: 90px 0;
+}
+.about-img {
+  width: 520px;
+  margin-top: 10px;
+  background: #fff;
+  border-right: 0;
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.06);
+}
+.about-h2 {
+  text-transform: uppercase;
+  margin: 0 0 20px 0;
+  font-weight: 800;
+  font-size: 36px;
+  color: #333;
+  position: relative;
+  margin-bottom: 15px;
+  padding-bottom: 15px;
+}
+
+.about-h3 {
+  text-transform: uppercase;
+  font-family: "Raleway", sans-serif;
+  line-height: 1.1;
+  font-size: 22px;
+  margin: 0 0 20px 0;
+  font-weight: bold;
+  color: #3a3a3a;
+}
+.about-p {
+  font-weight: lighter;
+  width: 80%;
+  line-height: 1.5;
+  margin: 30px 0;
+  font-size: 20px;
+  color: #1d1d1d;
+}
+
+.about-h2::after {
+  position: absolute;
+  content: "";
+  background: linear-gradient(to right, #5ca9fb 0%, #6372ff 100%);
+  height: 4px;
+  width: 110px;
+  bottom: 0;
+  left: 0;
+}
+.ul-list {
+  padding: 0;
+  list-style: none;
+  display: block;
+}
+.about-text {
+  margin-bottom: 6px;
+  margin-left: 6px;
+  list-style: none;
+  padding: 0;
+  opacity: 80%;
+}
+.about-text:before {
+  opacity: 100%;
+  content: "\f00c";
+  font-family: FontAwesome, serif;
+  font-style: normal;
+  font-weight: normal;
+  text-decoration: inherit;
+  color: #5ca9fb;
+  font-size: 11px;
+  padding-right: 20px;
+  cursor: pointer;
+  transition: transform 500ms ease;
+}
+.about-text:hover {
+  transition: transform 0.25s;
+  transform: scale(1.2);
+}
+
+::marker {
+  unicode-bidi: isolate;
+  font-variant-numeric: tabular-nums;
+  white-space: pre;
+  text-transform: none;
+}
